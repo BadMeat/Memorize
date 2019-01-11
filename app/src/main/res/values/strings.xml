@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Memorize</string>
+    <string name="tambah">Explore</string>
+    <string name="tanggal">Tanggal</string>
+    <string name="upload">Upload</string>
+    <string name="browse">Browse</string>
+    <string name="title_activity_main_content">MainContentActivity</string>
+    <string name="title_activity_delete">DeleteActivity</string>
+</resources>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "750364144698",
+    "firebase_url": "https://memorize-wrnh.firebaseio.com",
+    "project_id": "memorize-wrnh",
+    "storage_bucket": "memorize-wrnh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750364144698:android:1b2b6e6ec91fc63d",
+        "android_client_info": {
+          "package_name": "com.dolan.user.memorize"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750364144698-ugq1bl6nrppil9vbl69djo43983nsb8e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dolan.user.memorize",
+            "certificate_hash": "cc2cfefd7179d4a47a40ca68e5b6b9488c363aa4"
+          }
+        },
+        {
+          "client_id": "750364144698-r8fa5k510t2ldio6hrnj398253bn5gh8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDspzAPKqzaUp0cI8e19ZEptNIPEYwtfY0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750364144698-r8fa5k510t2ldio6hrnj398253bn5gh8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

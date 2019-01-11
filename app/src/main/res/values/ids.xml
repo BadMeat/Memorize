@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="my_but" type="id"/>
+    <item name="add" type="id"/>
+    <item name="text_image" type="id"/>
+    <item name="view_image" type="id"/>
+    <item name="tanggal" type="id"/>
+    <item name="edit_tanggal" type="id"/>
+</resources>
